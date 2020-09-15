@@ -1,0 +1,24 @@
+{
+  "name": "js-book-record",
+  "version": "1.0.0",
+  "description": "Simple app to record book",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dev1980/js-book-record.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dev1980/js-book-record/issues"
+  },
+  "homepage": "https://github.com/dev1980/js-book-record#readme",
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.1.0",
+    "eslint-plugin-import": "^2.20.2"
+  }
+}
